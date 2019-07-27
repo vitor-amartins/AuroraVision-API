@@ -1,0 +1,17 @@
+{
+  "name": "abb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vitor Matheus de Azevedo Martins",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "moment": "^2.24.0",
+    "qs": "^6.7.0"
+  }
+}
